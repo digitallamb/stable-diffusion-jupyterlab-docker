@@ -10,7 +10,8 @@ RUN pip install \
     jupyterlab \
     jupyterlab_widgets \
     "ipywidgets>=7,<8" \
-    jupyter-dash
+    jupyter-dash \
+    ipycanvas
 
 # stable diffusion stuff
 RUN pip install --upgrade diffusers transformers scipy ftfy python-slugify
