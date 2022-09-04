@@ -3,5 +3,5 @@
 project/models/stable*
 project/___prove
 *.png
-*.jpg
+*.jp*g
 credentials.ini
